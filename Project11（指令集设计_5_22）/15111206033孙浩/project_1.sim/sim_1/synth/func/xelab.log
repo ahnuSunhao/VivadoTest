@@ -1,0 +1,14 @@
+Vivado Simulator 2014.2
+Copyright 1986-1999, 2001-2014 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2014.2/bin/unwrapped/win64.o/xelab.exe --debug typical --relax -L xil_defaultlib -L unisims_ver -L secureip --snapshot mips_tb_func_synth --prj C:/Users/Administrator/Desktop/project_1/project_1.sim/sim_1/synth/func/mips_tb.prj xil_defaultlib.mips_tb xil_defaultlib.glbl 
+Multi-threading is on. Using 2 slave threads.
+Determining compilation order of HDL files.
+INFO: [VRFC 10-165] Analyzing Verilog file "C:/Users/Administrator/Desktop/project_1/project_1.sim/sim_1/synth/func/mips_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mips
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-165] Analyzing Verilog file "C:/Users/Administrator/Desktop/project_1/project_1.srcs/sim_1/new/mips_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mips_tb
+Starting static elaboration
+ERROR: [VRFC 10-93] imem is not declared under prefix U_IM [C:/Users/Administrator/Desktop/project_1/project_1.srcs/sim_1/new/mips_tb.v:33]
+ERROR: [VRFC 10-93] PC is not declared under prefix U_PC [C:/Users/Administrator/Desktop/project_1/project_1.srcs/sim_1/new/mips_tb.v:34]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

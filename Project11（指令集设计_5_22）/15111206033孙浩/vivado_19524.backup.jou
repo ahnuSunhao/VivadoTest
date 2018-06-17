@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Sun Jun 04 23:05:19 2017
+# Process ID: 19044
+# Log file: F:/学习/大二/计算机组成原理/课件&&作业/Project11（指令集设计_5_22）/15111206010程舸帆/vivado.log
+# Journal file: F:/学习/大二/计算机组成原理/课件&&作业/Project11（指令集设计_5_22）/15111206010程舸帆\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {F:\学习\大二\计算机组成原理\课件&&作业\Project11（指令集设计_5_22）\15111206010程舸帆\project_1.xpr}
+save_project_as TEST4 F:/TEST4 -force

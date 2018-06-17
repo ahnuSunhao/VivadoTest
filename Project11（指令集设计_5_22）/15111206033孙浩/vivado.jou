@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Sun Jun 04 23:07:50 2017
+# Process ID: 19524
+# Log file: F:/学习/大二/计算机组成原理/课件&&作业/Project11（指令集设计_5_22）/15111206010程舸帆/vivado.log
+# Journal file: F:/学习/大二/计算机组成原理/课件&&作业/Project11（指令集设计_5_22）/15111206010程舸帆\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {F:\学习\大二\计算机组成原理\课件&&作业\Project11（指令集设计_5_22）\15111206010程舸帆\project_1.xpr}
+launch_xsim -simset sim_1 -mode behavioral
+launch_xsim -simset sim_1 -mode behavioral
